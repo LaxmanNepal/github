@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laxmannepal.com.np/github/sitemap.xml
