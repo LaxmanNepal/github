@@ -1,6 +1,6 @@
 # GitHub Explorer — LaxmanNepal/github
 
-A lightweight, static-hosted directory for discovering public GitHub repositories. It includes a global discovery page, a Nepal-focused view, metadata search, composable filters, sorting in both directions, progressive rendering with infinite-scroll assistance, project actions, and scheduled indexing.
+A lightweight, static-hosted directory for discovering public GitHub repositories. It includes a global discovery page, a Nepal-focused view, metadata search, composable filters, sorting in both directions, progressive rendering with infinite-scroll assistance, project actions, browser-local favourites, and scheduled indexing.
 
 ## Routes and deployment
 - Global directory: /github/ on the LaxmanNepal project site.
