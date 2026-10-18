@@ -15,8 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Validate static dataset
-        run: python -c "import json; d=json.load(open('data/projects.json')); assert isinstance(d.get('projects'), list); print('Dataset JSON valid:', len(d['projects']), 'projects')"
+      - name: Validate JavaScript syntax
+        run: node --check assets/js/app.js
+      - name: Validate Python indexer syntax
+        run: python -c "import ast; ast.parse(open('scripts/build_index.py', encoding='utf-8').read())"
+      - name: Validate dataset and directory configuration
+        run: python -c "import json; d=json.load(open('data/projects.json')); assert isinstance(d.get('projects'), list); json.load(open('config/categories.json')); json.load(open('config/nepali-creators.json')); print('Dataset JSON valid:', len(d['projects']), 'projects')"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
