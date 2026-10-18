@@ -1,10 +1,15 @@
 # GitHub Explorer — LaxmanNepal/github
 
-A lightweight, static-hosted directory for discovering public GitHub repositories. It includes a global discovery page, a Nepal-focused view, metadata search, composable filters, sorting in both directions, progressive rendering with infinite-scroll assistance, project actions, browser-local favourites, and scheduled indexing.
+A lightweight, static-hosted directory for discovering public GitHub repositories. It includes a global discovery page, a Nepal-focused view, dedicated Hidden Apps, Games, Android, Windows and Web directories, metadata search, composable filters, sorting in both directions, progressive rendering with infinite-scroll assistance, project actions, browser-local favourites, and scheduled indexing.
 
 ## Routes and deployment
 - Global directory: /github/ on the LaxmanNepal project site.
 - Nepal directory: /github/githubnepal/ on that same project site.
+- Hidden open-source Android apps: /github/hiddenapps/.
+- Mobile games: /github/games/.
+- Android apps and games: /github/android/.
+- Windows apps: /github/windows/.
+- Web apps: /github/web/.
 - Repository: https://github.com/LaxmanNepal/github
 
 The Pages workflow deploys this repository as a project site. The exact live URL is determined by GitHub Pages settings and any custom domain configured there. Verify that setting before treating a custom domain as canonical; update canonical metadata, sitemap.xml and robots.txt if the actual origin differs.
@@ -21,7 +26,7 @@ The Pages workflow deploys this repository as a project site. The exact live URL
 - .github/workflows/pages.yml: static GitHub Pages deployment.
 
 ## Data collection and limits
-The indexer uses GitHub's documented REST Search API and multiple query families. Search limits each query to 1,000 results and imposes rate limits. Queries overlap and are deduplicated by case-insensitive full_name. This is a curated discovery index, not every public repository on GitHub. Adjust SEARCH_QUERIES and MAX_PAGES_PER_QUERY in scripts/build_index.py to change coverage. The daily workflow requests up to two 100-result pages per query.
+The indexer uses GitHub's documented REST Search API and multiple query families. Search limits each query to 1,000 results and imposes rate limits. Queries overlap and are deduplicated by case-insensitive full_name. This is a curated discovery index, not every public repository on GitHub. Adjust SEARCH_QUERIES and MAX_PAGES_PER_QUERY in scripts/build_index.py to change coverage. The daily workflow requests up to two 100-result pages per query, including F-Droid/FOSS/privacy, Android, game, Windows and web-app discovery queries. The Hidden Apps page only shows Android projects whose GitHub metadata includes a recognized SPDX license and matching FOSS/hidden-app signals; this is a curated discovery view, not a guarantee that every qualifying app on GitHub is indexed.
 
 The workflow uses the automatically provided GITHUB_TOKEN secret; it is never sent to the browser. The token is used to commit generated data. Failed searches are reported; if every query fails, the script exits without replacing the existing dataset. Run Actions → Refresh repository index → Run workflow to trigger an update.
 
