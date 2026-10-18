@@ -1,5 +1,11 @@
 name: Refresh repository index
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_index.py'
+      - 'config/**'
+      - '.github/workflows/refresh-index.yml'
   workflow_dispatch:
   schedule:
     - cron: "23 4 * * *"
