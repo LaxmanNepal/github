@@ -10,6 +10,8 @@ A lightweight, static-hosted directory for discovering public GitHub repositorie
 - Android apps and games: /github/android/.
 - Windows apps: /github/windows/.
 - Web apps: /github/web/.
+- Compare projects: /github/compare/ (browser-local selection, up to four repositories).
+- Project details: /github/project/?repo=owner/repository.
 - Repository: https://github.com/LaxmanNepal/github
 
 The Pages workflow deploys this repository as a project site. The exact live URL is determined by GitHub Pages settings and any custom domain configured there. Verify that setting before treating a custom domain as canonical; update canonical metadata, sitemap.xml and robots.txt if the actual origin differs.
