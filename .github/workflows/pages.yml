@@ -23,7 +23,7 @@ jobs:
           python -c "import ast; ast.parse(open('scripts/test_index.py', encoding='utf-8').read())"
           python scripts/test_index.py
       - name: Validate project details script
-        run: node --check assets/js/project.js
+        run: node --check assets/js/project.js && node --check assets/js/compare.js
       - name: Validate dataset and directory configuration
         run: python -c "import json, pathlib; d=json.load(open('data/projects.json')); assert isinstance(d.get('projects'), list) and d['projects'], 'index must contain projects'; assert d.get('total', len(d['projects'])) == len(d['projects']); json.load(open('config/categories.json')); json.load(open('config/nepali-creators.json')); assert pathlib.Path('project/index.html').exists(); print('Dataset JSON valid:', len(d['projects']), 'projects')"
       - uses: actions/configure-pages@v5
