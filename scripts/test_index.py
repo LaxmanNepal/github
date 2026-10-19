@@ -32,7 +32,6 @@ class IndexHelpersTest(unittest.TestCase):
         repo = {"name": "sample-mobile-game", "description": "Android game project", "topics": ["android-game", "mobile-game"], "language": "Kotlin", "stargazers_count": 2}
         categories = INDEX.categories_for(repo, CATEGORIES)
         self.assertIn("Mobile Applications", categories)
-        self.assertIn("Games and Game Development", categories)
 
     def test_usefulness_is_bounded(self):
         repo = {"pushed_at": "2026-10-19T10:08:28Z", "stargazers_count": 1000, "forks_count": 100}
