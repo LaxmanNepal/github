@@ -20,7 +20,7 @@ jobs:
       - name: Validate Python scripts
         run: |
           python -c "import ast; ast.parse(open('scripts/build_index.py', encoding='utf-8').read())"
-          python -m py_compile scripts/build_index.py scripts/test_index.py
+          python -c "import ast; ast.parse(open('scripts/test_index.py', encoding='utf-8').read())"
           python scripts/test_index.py
       - name: Validate project details script
         run: node --check assets/js/project.js
