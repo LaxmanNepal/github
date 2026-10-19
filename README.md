@@ -62,7 +62,7 @@ Generate data locally with Python 3.10+ and no third-party packages: MAX_PAGES_P
 - No Nepal entries: add confirmed projects or verified creators to the allowlist; do not guess nationality.
 
 ## Validation
-Run python -m py_compile scripts/build_index.py, python -m json.tool data/projects.json, and the same json.tool check for config/categories.json and config/nepali-creators.json. The deployment workflow checks the dataset structure. The indexer validates unique IDs/names, required fields, numeric star counts, timestamps and demo URLs before replacing the dataset.
+Run `python scripts/test_index.py`, `python -m json.tool data/projects.json`, and the same `json.tool` check for `config/categories.json` and `config/nepali-creators.json`. The deployment workflow checks the dataset structure. The indexer validates unique IDs/names, required fields, numeric star counts, timestamps and demo URLs before replacing the dataset.
 
 ## Current limitations
 - Search coverage is bounded by query strategy, Search API limits and quotas.
