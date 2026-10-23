@@ -46,6 +46,6 @@ jobs:
             git add data/projects.json data/index-report.json data/history.json feed.xml sitemap.xml
             git commit -m "chore: refresh GitHub repository index"
             git fetch origin main
-            git rebase origin/main
+            git rebase FETCH_HEAD
             git push
           fi
