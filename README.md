@@ -15,6 +15,7 @@ A lightweight, static-hosted directory for discovering public GitHub repositorie
 - RSS feed: /github/feed.xml (up to 50 recently updated indexed repositories).
 - Index history: /github/data/history.json (daily aggregate snapshots, up to 365 records).
 - Index report: /github/data/index-report.json (latest indexing run summary).
+- Analytics: opt-in Google Analytics (measurement ID G-VG1MHSYGQ0) loads only after consent; users can change the choice through the persistent Privacy & analytics control. Outbound links are tracked as click events.
 - Project details: /github/project/?repo=owner/repository.
 - Repository: https://github.com/LaxmanNepal/github
 
