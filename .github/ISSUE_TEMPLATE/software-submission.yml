@@ -1,0 +1,63 @@
+name: Suggest a repository
+description: Recommend a public GitHub repository for the Explorer index.
+title: "[Submission]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the directory. Suggestions are reviewed manually; submitting a project does not guarantee inclusion. Please do not submit private repositories, personal data, or projects you do not have permission to recommend.
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub repository URL
+      description: Use the canonical public repository URL.
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best-fit category
+      options:
+        - AI and machine learning
+        - Developer tools
+        - Web applications
+        - Android apps
+        - Windows or desktop apps
+        - Games
+        - Privacy and security
+        - Productivity
+        - Education
+        - Nepal-related project
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: license
+    attributes:
+      label: License status
+      description: This is your observation, not a verification by the Explorer.
+      options:
+        - Open-source license is visible
+        - License is unclear
+        - Proprietary or source-available
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should it be included?
+      description: What does it do, who might find it useful, and what makes it a good discovery?
+      placeholder: A short explanation with any useful public documentation links.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked that the repository is public and the URL is correct.
+          required: true
+        - label: I understand that the Explorer does not certify project safety, quality, or publisher identity.
+          required: true
