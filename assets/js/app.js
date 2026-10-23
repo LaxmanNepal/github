@@ -3,6 +3,7 @@
 const root = document.getElementById("app");
 if (!root) return;
 const base = root.dataset.base || "./";
+const analyticsLoader=document.createElement("script");analyticsLoader.src=base+"assets/js/analytics.js";analyticsLoader.defer=true;document.head.appendChild(analyticsLoader);
 const scope = root.dataset.scope || "global";
 const pageScope = ["nepal","hiddenapps","games","android","windows","web"].includes(scope) ? scope : "global";
 const nepalPage = pageScope === "nepal";
