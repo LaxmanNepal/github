@@ -38,12 +38,12 @@ jobs:
         run: python scripts/build_feeds.py
       - name: Commit changed dataset
         run: |
-          if git diff --quiet -- data/projects.json data/index-report.json data/history.json feed.xml; then
+          if git diff --quiet -- data/projects.json data/index-report.json data/history.json feed.xml sitemap.xml; then
             echo "Dataset unchanged; nothing to commit."
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/projects.json data/index-report.json data/history.json feed.xml
+            git add data/projects.json data/index-report.json data/history.json feed.xml sitemap.xml
             git commit -m "chore: refresh GitHub repository index"
             git push
           fi
