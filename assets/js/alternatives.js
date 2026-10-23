@@ -2,6 +2,7 @@
 "use strict";
 const root=document.getElementById("alternativesApp");if(!root)return;
 const base=root.dataset.base||"../";
+const analyticsLoader=document.createElement("script");analyticsLoader.src=base+"assets/js/analytics.js";analyticsLoader.defer=true;document.head.appendChild(analyticsLoader);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmt=n=>Number(n||0).toLocaleString();
 const repoUrl=p=>p.repository_url||"https://github.com/"+p.full_name;
