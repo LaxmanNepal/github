@@ -3,6 +3,7 @@
 import json
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -61,3 +62,18 @@ for p in items:
 xml.extend(["</channel></rss>", ""])
 (ROOT / "feed.xml").write_text("\n".join(xml), encoding="utf-8")
 print(f"Generated feed.xml ({len(items)} items) and data/history.json ({len(history['snapshots'])} snapshots)")
+
+# Generate a sitemap for directory pages and query-addressable project detail pages.
+static_urls = ["", "githubnepal/", "hiddenapps/", "games/", "android/", "windows/", "web/", "compare/", "alternatives/"]
+url_entries = [(BASE + path, generated) for path in static_urls]
+for p in projects:
+    name = p.get("full_name")
+    if not name:
+        continue
+    url_entries.append((BASE + "project/?repo=" + quote(name, safe=""), p.get("updated_at") or generated))
+sitemap = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+for url, lastmod in url_entries:
+    sitemap.extend(["<url>", f"<loc>{escape(url)}</loc>", f"<lastmod>{escape(lastmod[:10])}</lastmod>", "</url>"])
+sitemap.extend(["</urlset>", ""])
+(ROOT / "sitemap.xml").write_text("\n".join(sitemap), encoding="utf-8")
+print(f"Generated sitemap.xml ({len(url_entries)} URLs)")
