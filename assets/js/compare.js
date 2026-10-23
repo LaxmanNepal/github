@@ -2,6 +2,7 @@
 "use strict";
 const root=document.getElementById("compareApp");if(!root)return;
 const base=root.dataset.base||"../";
+const analyticsLoader=document.createElement("script");analyticsLoader.src=base+"assets/js/analytics.js";analyticsLoader.defer=true;document.head.appendChild(analyticsLoader);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmt=n=>Number(n||0).toLocaleString();
 const date=s=>s&&Number.isFinite(Date.parse(s))?new Date(s).toLocaleDateString():"—";
