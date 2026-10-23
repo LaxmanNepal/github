@@ -19,6 +19,7 @@ jobs:
         run: |
           node --check assets/js/app.js
           node --check assets/js/alternatives.js
+          node --check assets/js/analytics.js
           node --check assets/js/project.js
           node --check assets/js/compare.js
       - name: Validate Python scripts
