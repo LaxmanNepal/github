@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "snapshots": [
+    {
+      "generated_at": "2026-10-23T23:14:59.368292Z",
+      "repositories": 5242,
+      "nepal_related": 377,
+      "archived": 0,
+      "with_license": 4254,
+      "with_homepage": 3296,
+      "search_queries": 32,
+      "search_failures": 0
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>GitHub Explorer — Recently updated projects</title>
+<link>https://laxmannepal.com.np/github/</link>
+<description>Recently updated repositories in the curated GitHub Explorer index.</description>
+<language>en</language>
+<lastBuildDate>Fri, 23 Oct 2026 23:14:59 GMT</lastBuildDate>
+<item>
+<title>cilium/tetragon</title>
+<link>https://github.com/cilium/tetragon</link>
+<guid isPermaLink="false">cilium/tetragon</guid>
+<description>eBPF-based Security Observability and Runtime Enforcement</description>
+<pubDate>Fri, 23 Oct 2026 23:14:30 GMT</pubDate>
+</item>
+<item>
+<title>Mafyuh/iac</title>
+<link>https://github.com/Mafyuh/iac</link>
+<guid isPermaLink="false">Mafyuh/iac</guid>
+<description>GitOps-driven Infrastructure as Code for my homelab</description>
+<pubDate>Fri, 23 Oct 2026 23:14:19 GMT</pubDate>
+</item>
+<item>
+<title>unstablebuild/rune</title>
+<link>https://github.com/unstablebuild/rune</link>
+<guid isPermaLink="false">unstablebuild/rune</guid>
+<description>a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.</description>
+<pubDate>Fri, 23 Oct 2026 23:14:05 GMT</pubDate>
+</item>
+<item>
+<title>elie222/rakazo</title>
+<link>https://github.com/elie222/rakazo</link>
+<guid isPermaLink="false">elie222/rakazo</guid>
+<description>Open-source Grok Bot alternative. Choose your own model and sandbox.</description>
+<pubDate>Fri, 23 Oct 2026 23:14:00 GMT</pubDate>
+</item>
+<item>
+<title>Kevin-Liu-01/Claude-of-Tanks</title>
+<link>https://github.com/Kevin-Liu-01/Claude-of-Tanks</link>
+<guid isPermaLink="false">Kevin-Liu-01/Claude-of-Tanks</guid>
+<description>A World of Tanks-style armored combat simulator built directly with Three.js and Vite: 220 vehicles, 33 destructible battlefields, and 13 modes, with plate-level armor, ballistics, modules, spotting, and physics. Play in your browser on desktop or mobile. Built end-to-end by a multi-agent Claude/Codex pipeline.</description>
+<pubDate>Fri, 23 Oct 2026 23:14:00 GMT</pubDate>
+</item>
+<item>
+<title>PolyMeilex/Neothesia</title>
+<link>https://github.com/PolyMeilex/Neothesia</link>
+<guid isPermaLink="false">PolyMeilex/Neothesia</guid>
+<description>Flashy Synthesia Like Software For Linux, Windows and MacOs</description>
+<pubDate>Fri, 23 Oct 2026 23:13:55 GMT</pubDate>
+</item>
+<item>
+<title>hcavarsan/kftray</title>
+<link>https://github.com/hcavarsan/kftray</link>
+<guid isPermaLink="false">hcavarsan/kftray</guid>
+<description>kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available</description>
+<pubDate>Fri, 23 Oct 2026 23:13:55 GMT</pubDate>
+</item>
+<item>
+<title>Uhhkash/NepaliNumbers</title>
+<link>https://github.com/Uhhkash/NepaliNumbers</link>
+<guid isPermaLink="false">Uhhkash/NepaliNumbers</guid>
+<description>A simple game for learning numbers in Nepalese. Written in C using RayLib. </description>
+<pubDate>Fri, 23 Oct 2026 23:13:54 GMT</pubDate>
+</item>
+<item>
+<title>ArchiveBox/ArchiveBox</title>
+<link>https://github.com/ArchiveBox/ArchiveBox</link>
+<guid isPermaLink="false">ArchiveBox/ArchiveBox</guid>
+<description>🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...</description>
+<pubDate>Fri, 23 Oct 2026 23:13:53 GMT</pubDate>
+</item>
+<item>
+<title>nodejs/node</title>
+<link>https://github.com/nodejs/node</link>
+<guid isPermaLink="false">nodejs/node</guid>
+<description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+<pubDate>Fri, 23 Oct 2026 23:13:50 GMT</pubDate>
+</item>
+<item>
+<title>keepassxreboot/keepassxc</title>
+<link>https://github.com/keepassxreboot/keepassxc</link>
+<guid isPermaLink="false">keepassxreboot/keepassxc</guid>
+<description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:49 GMT</pubDate>
+</item>
+<item>
+<title>KollektionHannemann/artcraft-parity</title>
+<link>https://github.com/KollektionHannemann/artcraft-parity</link>
+<guid isPermaLink="false">KollektionHannemann/artcraft-parity</guid>
+<description>ArtCraft Tracker: live dashboard of how ready the open-source Craft apps (PhotoCraft, VectorCraft, FilmCraft…) are vs Photoshop, Illustrator, Premiere Pro, Excel, AutoCAD. Parity, activity, releases.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:48 GMT</pubDate>
+</item>
+<item>
+<title>fallow-rs/fallow</title>
+<link>https://github.com/fallow-rs/fallow</link>
+<guid isPermaLink="false">fallow-rs/fallow</guid>
+<description>Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:46 GMT</pubDate>
+</item>
+<item>
+<title>CurvineIO/curvine</title>
+<link>https://github.com/CurvineIO/curvine</link>
+<guid isPermaLink="false">CurvineIO/curvine</guid>
+<description>AI-Native &amp; Cloud-Native FS:  A high-performance file semantic layer for cloud object storage, integrated with high-speed cache. CNCF Sandbox Project.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:46 GMT</pubDate>
+</item>
+<item>
+<title>DuarteSantos8/openGym</title>
+<link>https://github.com/DuarteSantos8/openGym</link>
+<guid isPermaLink="false">DuarteSantos8/openGym</guid>
+<description>Open-source gym &amp; body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:45 GMT</pubDate>
+</item>
+<item>
+<title>melgarafael/DeskcommCRM</title>
+<link>https://github.com/melgarafael/DeskcommCRM</link>
+<guid isPermaLink="false">melgarafael/DeskcommCRM</guid>
+<description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:40 GMT</pubDate>
+</item>
+<item>
+<title>twpayne/chezmoi</title>
+<link>https://github.com/twpayne/chezmoi</link>
+<guid isPermaLink="false">twpayne/chezmoi</guid>
+<description>Manage your dotfiles across multiple diverse machines, securely.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:39 GMT</pubDate>
+</item>
+<item>
+<title>esphome/esphome</title>
+<link>https://github.com/esphome/esphome</link>
+<guid isPermaLink="false">esphome/esphome</guid>
+<description>ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:39 GMT</pubDate>
+</item>
+<item>
+<title>WebKit/WebKit</title>
+<link>https://github.com/WebKit/WebKit</link>
+<guid isPermaLink="false">WebKit/WebKit</guid>
+<description>Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:39 GMT</pubDate>
+</item>
+<item>
+<title>apache/apisix</title>
+<link>https://github.com/apache/apisix</link>
+<guid isPermaLink="false">apache/apisix</guid>
+<description>The Cloud-Native API Gateway and AI Gateway</description>
+<pubDate>Fri, 23 Oct 2026 23:13:37 GMT</pubDate>
+</item>
+<item>
+<title>nginx/njs</title>
+<link>https://github.com/nginx/njs</link>
+<guid isPermaLink="false">nginx/njs</guid>
+<description>A subset of JavaScript language to use in nginx</description>
+<pubDate>Fri, 23 Oct 2026 23:13:36 GMT</pubDate>
+</item>
+<item>
+<title>cloudscape-design/components</title>
+<link>https://github.com/cloudscape-design/components</link>
+<guid isPermaLink="false">cloudscape-design/components</guid>
+<description>React components for Cloudscape Design System</description>
+<pubDate>Fri, 23 Oct 2026 23:13:33 GMT</pubDate>
+</item>
+<item>
+<title>GetBusbar/busbar</title>
+<link>https://github.com/GetBusbar/busbar</link>
+<guid isPermaLink="false">GetBusbar/busbar</guid>
+<description>The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping your native protocols intact: six native LLM protocols in, six native LLM protocols out.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:31 GMT</pubDate>
+</item>
+<item>
+<title>flutter/website</title>
+<link>https://github.com/flutter/website</link>
+<guid isPermaLink="false">flutter/website</guid>
+<description>Flutter documentation web site</description>
+<pubDate>Fri, 23 Oct 2026 23:13:28 GMT</pubDate>
+</item>
+<item>
+<title>avinashjoshi/omacus</title>
+<link>https://github.com/avinashjoshi/omacus</link>
+<guid isPermaLink="false">avinashjoshi/omacus</guid>
+<description>Free notepad calculator for Linux, macOS and Windows. Write math in plain words: units, currencies, time zones and percentages, answered as you type.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:28 GMT</pubDate>
+</item>
+<item>
+<title>electron/electron</title>
+<link>https://github.com/electron/electron</link>
+<guid isPermaLink="false">electron/electron</guid>
+<description>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
+<pubDate>Fri, 23 Oct 2026 23:13:25 GMT</pubDate>
+</item>
+<item>
+<title>codewhale-hq/Codewhale</title>
+<link>https://github.com/codewhale-hq/Codewhale</link>
+<guid isPermaLink="false">codewhale-hq/Codewhale</guid>
+<description>Open-source agent for the terminal written in Rust. Use any provider or model. Issues &amp; PRs always welcome</description>
+<pubDate>Fri, 23 Oct 2026 23:13:24 GMT</pubDate>
+</item>
+<item>
+<title>Jacob-J-Thomas/GraphGoblin</title>
+<link>https://github.com/Jacob-J-Thomas/GraphGoblin</link>
+<guid isPermaLink="false">Jacob-J-Thomas/GraphGoblin</guid>
+<description>Design, run, and observe agent loops: a PWA and gateway API for node-graph workflows that drive Codex, with an MCP server and a Codex plugin.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:23 GMT</pubDate>
+</item>
+<item>
+<title>jsboige/CoursIA</title>
+<link>https://github.com/jsboige/CoursIA</link>
+<guid isPermaLink="false">jsboige/CoursIA</guid>
+<description>Dépôt contenant les ressources et TPs d'un cours en IA en Python, C# et en Lean4</description>
+<pubDate>Fri, 23 Oct 2026 23:13:21 GMT</pubDate>
+</item>
+<item>
+<title>twentyhq/twenty</title>
+<link>https://github.com/twentyhq/twenty</link>
+<guid isPermaLink="false">twentyhq/twenty</guid>
+<description>The open alternative to Salesforce, designed for AI.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:20 GMT</pubDate>
+</item>
+<item>
+<title>nomideusz/zaur</title>
+<link>https://github.com/nomideusz/zaur</link>
+<guid isPermaLink="false">nomideusz/zaur</guid>
+<description>Self-hosted JMAP webmail for Stalwart mail servers — fast, offline-capable, SvelteKit. Part of the ZAUR communications suite.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:20 GMT</pubDate>
+</item>
+<item>
+<title>ellite/scrob</title>
+<link>https://github.com/ellite/scrob</link>
+<guid isPermaLink="false">ellite/scrob</guid>
+<description>Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt</description>
+<pubDate>Fri, 23 Oct 2026 23:13:18 GMT</pubDate>
+</item>
+<item>
+<title>jeanvicen/KAZER</title>
+<link>https://github.com/jeanvicen/KAZER</link>
+<guid isPermaLink="false">jeanvicen/KAZER</guid>
+<description>KAZER — espaço web/PWA de conversa com IA, pesquisa, workspace e integrações seguras.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:17 GMT</pubDate>
+</item>
+<item>
+<title>agent-labs-dev/fastbrowse</title>
+<link>https://github.com/agent-labs-dev/fastbrowse</link>
+<guid isPermaLink="false">agent-labs-dev/fastbrowse</guid>
+<description>A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:12 GMT</pubDate>
+</item>
+<item>
+<title>medplum/medplum</title>
+<link>https://github.com/medplum/medplum</link>
+<guid isPermaLink="false">medplum/medplum</guid>
+<description>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:11 GMT</pubDate>
+</item>
+<item>
+<title>TannerMidd/pi-pocket</title>
+<link>https://github.com/TannerMidd/pi-pocket</link>
+<guid isPermaLink="false">TannerMidd/pi-pocket</guid>
+<description>A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable</description>
+<pubDate>Fri, 23 Oct 2026 23:13:11 GMT</pubDate>
+</item>
+<item>
+<title>soma-academia/tech-tayari</title>
+<link>https://github.com/soma-academia/tech-tayari</link>
+<guid isPermaLink="false">soma-academia/tech-tayari</guid>
+<description>Free, offline-first lessons in computers, the internet, AI and Computer Studies for Kenyan learners in Grade 4–11, plus KCSE Form 4 revision.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:10 GMT</pubDate>
+</item>
+<item>
+<title>ALIILAPRO/MTProtoProxy</title>
+<link>https://github.com/ALIILAPRO/MTProtoProxy</link>
+<guid isPermaLink="false">ALIILAPRO/MTProtoProxy</guid>
+<description>Get daily and high-speed MTProto proxy for Telegram.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:09 GMT</pubDate>
+</item>
+<item>
+<title>MetaMask/metamask-mobile</title>
+<link>https://github.com/MetaMask/metamask-mobile</link>
+<guid isPermaLink="false">MetaMask/metamask-mobile</guid>
+<description>Mobile web browser providing access to websites that use the Ethereum blockchain</description>
+<pubDate>Fri, 23 Oct 2026 23:13:07 GMT</pubDate>
+</item>
+<item>
+<title>redpanda-data/connect</title>
+<link>https://github.com/redpanda-data/connect</link>
+<guid isPermaLink="false">redpanda-data/connect</guid>
+<description>Fancy stream processing made operationally mundane</description>
+<pubDate>Fri, 23 Oct 2026 23:13:05 GMT</pubDate>
+</item>
+<item>
+<title>Discord-Datamining/Discord-Datamining</title>
+<link>https://github.com/Discord-Datamining/Discord-Datamining</link>
+<guid isPermaLink="false">Discord-Datamining/Discord-Datamining</guid>
+<description>Datamining Discord changes from the JS files</description>
+<pubDate>Fri, 23 Oct 2026 23:13:04 GMT</pubDate>
+</item>
+<item>
+<title>msch128/mnema-talk-desktop</title>
+<link>https://github.com/msch128/mnema-talk-desktop</link>
+<guid isPermaLink="false">msch128/mnema-talk-desktop</guid>
+<description>Desktop client (Beta, unsigned) for Mnema Talk, a self-hosted community chat with voice and screen sharing. Runs a signed web bundle it verifies itself instead of server JavaScript. Windows, macOS and Linux; Windows gaming sidepeek and overlay. AGPL-3.0.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:03 GMT</pubDate>
+</item>
+<item>
+<title>wesleygrimes/omastorm</title>
+<link>https://github.com/wesleygrimes/omastorm</link>
+<guid isPermaLink="false">wesleygrimes/omastorm</guid>
+<description>Live weather radar for the Omarchy desktop, built with Rust and Quickshell.</description>
+<pubDate>Fri, 23 Oct 2026 23:13:01 GMT</pubDate>
+</item>
+<item>
+<title>herdrdev/herdr</title>
+<link>https://github.com/herdrdev/herdr</link>
+<guid isPermaLink="false">herdrdev/herdr</guid>
+<description>the runtime your coding agents live on</description>
+<pubDate>Fri, 23 Oct 2026 23:13:00 GMT</pubDate>
+</item>
+<item>
+<title>BerriAI/litellm</title>
+<link>https://github.com/BerriAI/litellm</link>
+<guid isPermaLink="false">BerriAI/litellm</guid>
+<description>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]</description>
+<pubDate>Fri, 23 Oct 2026 23:12:58 GMT</pubDate>
+</item>
+<item>
+<title>lgse/strata</title>
+<link>https://github.com/lgse/strata</link>
+<guid isPermaLink="false">lgse/strata</guid>
+<description>The best file manager on Linux</description>
+<pubDate>Fri, 23 Oct 2026 23:12:58 GMT</pubDate>
+</item>
+<item>
+<title>yuyuyuyuyu-dev/uncompressed-cd-ripper</title>
+<link>https://github.com/yuyuyuyuyu-dev/uncompressed-cd-ripper</link>
+<guid isPermaLink="false">yuyuyuyuyu-dev/uncompressed-cd-ripper</guid>
+<description>This app rips CDs without compression.</description>
+<pubDate>Fri, 23 Oct 2026 23:12:55 GMT</pubDate>
+</item>
+<item>
+<title>NodePassProject/Nowhere</title>
+<link>https://github.com/NodePassProject/Nowhere</link>
+<guid isPermaLink="false">NodePassProject/Nowhere</guid>
+<description>TCP and UDP relay over TLS and QUIC</description>
+<pubDate>Fri, 23 Oct 2026 23:12:51 GMT</pubDate>
+</item>
+<item>
+<title>jonasdesouzajr-maker/matchapp.tv</title>
+<link>https://github.com/jonasdesouzajr-maker/matchapp.tv</link>
+<guid isPermaLink="false">jonasdesouzajr-maker/matchapp.tv</guid>
+<description>Your AI Concierge for Entertainment — discover movies, series, K-dramas, anime, novelas, micro-dramas, podcasts and music in 14 languages. Vanilla JS, Supabase, Gemini, GitHub Pages.</description>
+<pubDate>Fri, 23 Oct 2026 23:12:51 GMT</pubDate>
+</item>
+<item>
+<title>expo/expo</title>
+<link>https://github.com/expo/expo</link>
+<guid isPermaLink="false">expo/expo</guid>
+<description>An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.</description>
+<pubDate>Fri, 23 Oct 2026 23:12:49 GMT</pubDate>
+</item>
+</channel></rss>
