@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report an indexing or classification issue
+    url: https://github.com/LaxmanNepal/github/issues
+    about: Report incorrect metadata, duplicate entries, or a broken Explorer feature.
