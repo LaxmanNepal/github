@@ -5,6 +5,7 @@ on:
     paths:
       - 'scripts/build_index.py'
       - 'scripts/test_index.py'
+      - 'scripts/build_feeds.py'
       - 'config/**'
       - '.github/workflows/refresh-index.yml'
   workflow_dispatch:
@@ -33,14 +34,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_PAGES_PER_QUERY: "2"
         run: python scripts/build_index.py
+      - name: Generate RSS feed and index history
+        run: python scripts/build_feeds.py
       - name: Commit changed dataset
         run: |
-          if git diff --quiet -- data/projects.json data/index-report.json; then
+          if git diff --quiet -- data/projects.json data/index-report.json data/history.json feed.xml; then
             echo "Dataset unchanged; nothing to commit."
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/projects.json data/index-report.json
+            git add data/projects.json data/index-report.json data/history.json feed.xml
             git commit -m "chore: refresh GitHub repository index"
             git push
           fi
