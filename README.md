@@ -11,6 +11,10 @@ A lightweight, static-hosted directory for discovering public GitHub repositorie
 - Windows apps: /github/windows/.
 - Web apps: /github/web/.
 - Compare projects: /github/compare/ (browser-local selection, up to four repositories).
+- Alternatives: /github/alternatives/ (metadata-based similarity discovery).
+- RSS feed: /github/feed.xml (up to 50 recently updated indexed repositories).
+- Index history: /github/data/history.json (daily aggregate snapshots, up to 365 records).
+- Index report: /github/data/index-report.json (latest indexing run summary).
 - Project details: /github/project/?repo=owner/repository.
 - Repository: https://github.com/LaxmanNepal/github
 
@@ -24,7 +28,7 @@ The Pages workflow deploys this repository as a project site. The exact live URL
 - scripts/build_index.py: discovery, normalization, classification and validation.
 - config/categories.json: canonical category labels.
 - config/nepali-creators.json: manually reviewed creator/repository allowlist.
-- .github/workflows/refresh-index.yml: daily scheduled and manual refresh.
+- .github/workflows/refresh-index.yml: daily scheduled and manual refresh, RSS generation and aggregate history.
 - .github/workflows/pages.yml: static GitHub Pages deployment.
 
 ## Data collection and limits
