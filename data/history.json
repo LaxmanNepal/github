@@ -190,6 +190,16 @@
       "with_homepage": 3225,
       "search_queries": 32,
       "search_failures": 0
+    },
+    {
+      "generated_at": "2026-11-11T12:02:43.812936Z",
+      "repositories": 5162,
+      "nepal_related": 382,
+      "archived": 0,
+      "with_license": 4041,
+      "with_homepage": 3198,
+      "search_queries": 32,
+      "search_failures": 0
     }
   ]
 }
