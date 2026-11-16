@@ -4,355 +4,355 @@
 <link>https://laxmannepal.com.np/github/</link>
 <description>Recently updated repositories in the curated GitHub Explorer index.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 12:08:19 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 13:02:48 GMT</lastBuildDate>
 <item>
-<title>google/mantis</title>
-<link>https://github.com/google/mantis</link>
-<guid isPermaLink="false">google/mantis</guid>
-<description>A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.</description>
-<pubDate>Sun, 15 Nov 2026 12:07:35 GMT</pubDate>
+<title>frappe/frappe</title>
+<link>https://github.com/frappe/frappe</link>
+<guid isPermaLink="false">frappe/frappe</guid>
+<description>Low code web framework for real world applications, in Python and Javascript</description>
+<pubDate>Mon, 16 Nov 2026 13:01:45 GMT</pubDate>
 </item>
 <item>
 <title>morluto/rea</title>
 <link>https://github.com/morluto/rea</link>
 <guid isPermaLink="false">morluto/rea</guid>
 <description>Reverse engineer anything with agents, from app behavior down to native binaries.</description>
-<pubDate>Sun, 15 Nov 2026 12:07:33 GMT</pubDate>
+<pubDate>Mon, 16 Nov 2026 13:01:29 GMT</pubDate>
 </item>
 <item>
-<title>0xMarcio/pocindex</title>
-<link>https://github.com/0xMarcio/pocindex</link>
-<guid isPermaLink="false">0xMarcio/pocindex</guid>
-<description>Search public CVE proof-of-concept exploits from GitHub, Nuclei, ExploitDB, Metasploit and Vulhub, with CVSS, EPSS and CISA KEV context.</description>
-<pubDate>Sun, 15 Nov 2026 12:07:29 GMT</pubDate>
+<title>kovidgoyal/kitty</title>
+<link>https://github.com/kovidgoyal/kitty</link>
+<guid isPermaLink="false">kovidgoyal/kitty</guid>
+<description>If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.</description>
+<pubDate>Mon, 16 Nov 2026 13:01:11 GMT</pubDate>
 </item>
 <item>
-<title>meshy-dev/ThreeRT</title>
-<link>https://github.com/meshy-dev/ThreeRT</link>
-<guid isPermaLink="false">meshy-dev/ThreeRT</guid>
-<description>Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.</description>
-<pubDate>Sun, 15 Nov 2026 12:07:23 GMT</pubDate>
+<title>abacusai/abacusai-bot</title>
+<link>https://github.com/abacusai/abacusai-bot</link>
+<guid isPermaLink="false">abacusai/abacusai-bot</guid>
+<description>100% free, open-source personal agents for your messaging apps, tools, and services</description>
+<pubDate>Mon, 16 Nov 2026 13:01:10 GMT</pubDate>
 </item>
 <item>
-<title>vastsa/PI-Desktop</title>
-<link>https://github.com/vastsa/PI-Desktop</link>
-<guid isPermaLink="false">vastsa/PI-Desktop</guid>
-<description>Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins</description>
-<pubDate>Sun, 15 Nov 2026 12:07:22 GMT</pubDate>
+<title>nexu-io/openmotion</title>
+<link>https://github.com/nexu-io/openmotion</link>
+<guid isPermaLink="false">nexu-io/openmotion</guid>
+<description>The open-source Claude Motion &amp; CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.</description>
+<pubDate>Mon, 16 Nov 2026 13:01:07 GMT</pubDate>
 </item>
 <item>
-<title>storytold/effectcraft</title>
-<link>https://github.com/storytold/effectcraft</link>
-<guid isPermaLink="false">storytold/effectcraft</guid>
-<description>EffectCraft: An open-source motion graphics and compositing tool written from scratch in pure Rust</description>
-<pubDate>Sun, 15 Nov 2026 12:07:21 GMT</pubDate>
+<title>serveroshq/panel</title>
+<link>https://github.com/serveroshq/panel</link>
+<guid isPermaLink="false">serveroshq/panel</guid>
+<description>The open source ServerOS panel: one place to run the Linux servers you already own.</description>
+<pubDate>Mon, 16 Nov 2026 13:01:03 GMT</pubDate>
 </item>
 <item>
-<title>YashwanthKamireddi/Skykeep</title>
-<link>https://github.com/YashwanthKamireddi/Skykeep</link>
-<guid isPermaLink="false">YashwanthKamireddi/Skykeep</guid>
-<description>iCloud, set free: Apple Notes, Reminders, Calendar, Contacts, iCloud Drive and Photos as native apps on Windows, Linux and Android. Works offline. Open source, Rust.</description>
-<pubDate>Sun, 15 Nov 2026 12:07:21 GMT</pubDate>
+<title>Tracer-Cloud/opensre</title>
+<link>https://github.com/Tracer-Cloud/opensre</link>
+<guid isPermaLink="false">Tracer-Cloud/opensre</guid>
+<description>The open-source agent for CI/CD reliability.</description>
+<pubDate>Mon, 16 Nov 2026 13:01:02 GMT</pubDate>
+</item>
+<item>
+<title>anefzaoui/misterdownloadmanager</title>
+<link>https://github.com/anefzaoui/misterdownloadmanager</link>
+<guid isPermaLink="false">anefzaoui/misterdownloadmanager</guid>
+<description>misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux</description>
+<pubDate>Mon, 16 Nov 2026 13:00:58 GMT</pubDate>
+</item>
+<item>
+<title>asdfghj1237890/mini-macau</title>
+<link>https://github.com/asdfghj1237890/mini-macau</link>
+<guid isPermaLink="false">asdfghj1237890/mini-macau</guid>
+<description>Trilingual 3D visualization of Macau's public transit and aviation — LRT, buses, ferries, and MFM airport flights with schedule-driven simulation</description>
+<pubDate>Mon, 16 Nov 2026 13:00:55 GMT</pubDate>
+</item>
+<item>
+<title>storytold/figcraft</title>
+<link>https://github.com/storytold/figcraft</link>
+<guid isPermaLink="false">storytold/figcraft</guid>
+<description>FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust</description>
+<pubDate>Mon, 16 Nov 2026 13:00:48 GMT</pubDate>
+</item>
+<item>
+<title>go-gitea/gitea</title>
+<link>https://github.com/go-gitea/gitea</link>
+<guid isPermaLink="false">go-gitea/gitea</guid>
+<description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
+<pubDate>Mon, 16 Nov 2026 13:00:40 GMT</pubDate>
+</item>
+<item>
+<title>gmh5225/awesome-game-security</title>
+<link>https://github.com/gmh5225/awesome-game-security</link>
+<guid isPermaLink="false">gmh5225/awesome-game-security</guid>
+<description>awesome game security [Welcome to PR]</description>
+<pubDate>Mon, 16 Nov 2026 13:00:40 GMT</pubDate>
+</item>
+<item>
+<title>nautechsystems/nautilus_trader</title>
+<link>https://github.com/nautechsystems/nautilus_trader</link>
+<guid isPermaLink="false">nautechsystems/nautilus_trader</guid>
+<description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
+<pubDate>Mon, 16 Nov 2026 13:00:38 GMT</pubDate>
+</item>
+<item>
+<title>tangency-labs/solidcraft</title>
+<link>https://github.com/tangency-labs/solidcraft</link>
+<guid isPermaLink="false">tangency-labs/solidcraft</guid>
+<description>SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.</description>
+<pubDate>Mon, 16 Nov 2026 13:00:37 GMT</pubDate>
 </item>
 <item>
 <title>rustfs/rustfs</title>
 <link>https://github.com/rustfs/rustfs</link>
 <guid isPermaLink="false">rustfs/rustfs</guid>
 <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
-<pubDate>Sun, 15 Nov 2026 12:07:18 GMT</pubDate>
+<pubDate>Mon, 16 Nov 2026 13:00:36 GMT</pubDate>
 </item>
 <item>
-<title>storytold/photocraft</title>
-<link>https://github.com/storytold/photocraft</link>
-<guid isPermaLink="false">storytold/photocraft</guid>
-<description>PhotoCraft: An open-source photo editor written from scratch in pure Rust</description>
-<pubDate>Sun, 15 Nov 2026 12:07:17 GMT</pubDate>
+<title>heygen-com/hyperframes</title>
+<link>https://github.com/heygen-com/hyperframes</link>
+<guid isPermaLink="false">heygen-com/hyperframes</guid>
+<description>Write HTML. Render video. Built for agents.</description>
+<pubDate>Mon, 16 Nov 2026 13:00:31 GMT</pubDate>
 </item>
 <item>
-<title>storytold/filmcraft</title>
-<link>https://github.com/storytold/filmcraft</link>
-<guid isPermaLink="false">storytold/filmcraft</guid>
-<description>FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust</description>
-<pubDate>Sun, 15 Nov 2026 12:07:04 GMT</pubDate>
+<title>langgenius/dify</title>
+<link>https://github.com/langgenius/dify</link>
+<guid isPermaLink="false">langgenius/dify</guid>
+<description>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</description>
+<pubDate>Mon, 16 Nov 2026 13:00:27 GMT</pubDate>
 </item>
 <item>
-<title>ch6vip/novel-sound</title>
-<link>https://github.com/ch6vip/novel-sound</link>
-<guid isPermaLink="false">ch6vip/novel-sound</guid>
-<description>内容聚合 Android 客户端：小说/短剧/漫剧/听书/漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root</description>
-<pubDate>Sun, 15 Nov 2026 12:06:56 GMT</pubDate>
+<title>the-momentum/open-wearables</title>
+<link>https://github.com/the-momentum/open-wearables</link>
+<guid isPermaLink="false">the-momentum/open-wearables</guid>
+<description>Self-hosted platform to unify wearable health data through one AI-ready API.</description>
+<pubDate>Mon, 16 Nov 2026 13:00:23 GMT</pubDate>
 </item>
 <item>
-<title>QwenLM/qwen-code</title>
-<link>https://github.com/QwenLM/qwen-code</link>
-<guid isPermaLink="false">QwenLM/qwen-code</guid>
-<description>An open-source AI coding agent that lives in your terminal.</description>
-<pubDate>Sun, 15 Nov 2026 12:06:48 GMT</pubDate>
+<title>Nuitka/Nuitka</title>
+<link>https://github.com/Nuitka/Nuitka</link>
+<guid isPermaLink="false">Nuitka/Nuitka</guid>
+<description>Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. </description>
+<pubDate>Mon, 16 Nov 2026 13:00:20 GMT</pubDate>
 </item>
 <item>
-<title>Marven11/Fenjing</title>
-<link>https://github.com/Marven11/Fenjing</link>
-<guid isPermaLink="false">Marven11/Fenjing</guid>
-<description>专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, designed for CTF</description>
-<pubDate>Sun, 15 Nov 2026 12:06:28 GMT</pubDate>
+<title>opengeos/terrio</title>
+<link>https://github.com/opengeos/terrio</link>
+<guid isPermaLink="false">opengeos/terrio</guid>
+<description>Pure-Rust geospatial raster and vector data I/O</description>
+<pubDate>Mon, 16 Nov 2026 13:00:20 GMT</pubDate>
 </item>
 <item>
-<title>nomi-sec/PoC-in-GitHub</title>
-<link>https://github.com/nomi-sec/PoC-in-GitHub</link>
-<guid isPermaLink="false">nomi-sec/PoC-in-GitHub</guid>
-<description>📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</description>
-<pubDate>Sun, 15 Nov 2026 12:06:24 GMT</pubDate>
+<title>CapSoftware/Cap</title>
+<link>https://github.com/CapSoftware/Cap</link>
+<guid isPermaLink="false">CapSoftware/Cap</guid>
+<description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+<pubDate>Mon, 16 Nov 2026 13:00:09 GMT</pubDate>
 </item>
 <item>
-<title>oss-invisible/playwright</title>
-<link>https://github.com/oss-invisible/playwright</link>
-<guid isPermaLink="false">oss-invisible/playwright</guid>
-<description>invisible playwright: Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.</description>
-<pubDate>Sun, 15 Nov 2026 12:06:23 GMT</pubDate>
+<title>mrdoob/three.js</title>
+<link>https://github.com/mrdoob/three.js</link>
+<guid isPermaLink="false">mrdoob/three.js</guid>
+<description>JavaScript 3D Library.</description>
+<pubDate>Mon, 16 Nov 2026 13:00:08 GMT</pubDate>
 </item>
 <item>
-<title>RakaPanduAulia/project-ascend</title>
-<link>https://github.com/RakaPanduAulia/project-ascend</link>
-<guid isPermaLink="false">RakaPanduAulia/project-ascend</guid>
-<description>Solo Leveling-inspired gamified self-improvement &amp; habit tracking RPG. Level up in real life with daily quests, stat progression, skill tree, weekly Dungeon Gates, Boss Raids, and Shadow Army.</description>
-<pubDate>Sun, 15 Nov 2026 12:06:19 GMT</pubDate>
+<title>openai/codex-security</title>
+<link>https://github.com/openai/codex-security</link>
+<guid isPermaLink="false">openai/codex-security</guid>
+<description>OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security</description>
+<pubDate>Mon, 16 Nov 2026 13:00:07 GMT</pubDate>
 </item>
 <item>
-<title>sky22333/skyadb</title>
-<link>https://github.com/sky22333/skyadb</link>
-<guid isPermaLink="false">sky22333/skyadb</guid>
-<description>Android 上的 adb 助手，可以很方便的管理安卓手机、平板、电视和盒子。支持AI控制。</description>
-<pubDate>Sun, 15 Nov 2026 12:06:15 GMT</pubDate>
-</item>
-<item>
-<title>ccch1mneyyy/dsh-Go</title>
-<link>https://github.com/ccch1mneyyy/dsh-Go</link>
-<guid isPermaLink="false">ccch1mneyyy/dsh-Go</guid>
-<description>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</description>
-<pubDate>Sun, 15 Nov 2026 12:06:14 GMT</pubDate>
-</item>
-<item>
-<title>n8n-io/nod</title>
-<link>https://github.com/n8n-io/nod</link>
-<guid isPermaLink="false">n8n-io/nod</guid>
-<description>Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.</description>
-<pubDate>Sun, 15 Nov 2026 12:06:07 GMT</pubDate>
-</item>
-<item>
-<title>louislam/uptime-kuma</title>
-<link>https://github.com/louislam/uptime-kuma</link>
-<guid isPermaLink="false">louislam/uptime-kuma</guid>
-<description>A fancy self-hosted monitoring tool</description>
-<pubDate>Sun, 15 Nov 2026 12:05:58 GMT</pubDate>
-</item>
-<item>
-<title>SigNoz/signoz</title>
-<link>https://github.com/SigNoz/signoz</link>
-<guid isPermaLink="false">SigNoz/signoz</guid>
-<description>SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:57 GMT</pubDate>
-</item>
-<item>
-<title>ankidroid/Anki-Android</title>
-<link>https://github.com/ankidroid/Anki-Android</link>
-<guid isPermaLink="false">ankidroid/Anki-Android</guid>
-<description>AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:57 GMT</pubDate>
-</item>
-<item>
-<title>pydantic/pydantic</title>
-<link>https://github.com/pydantic/pydantic</link>
-<guid isPermaLink="false">pydantic/pydantic</guid>
-<description>Data validation using Python type hints</description>
-<pubDate>Sun, 15 Nov 2026 12:05:54 GMT</pubDate>
-</item>
-<item>
-<title>remotion-dev/remotion</title>
-<link>https://github.com/remotion-dev/remotion</link>
-<guid isPermaLink="false">remotion-dev/remotion</guid>
-<description>🎥      Make videos programmatically with React</description>
-<pubDate>Sun, 15 Nov 2026 12:05:51 GMT</pubDate>
-</item>
-<item>
-<title>ersinkoc/phonebox</title>
-<link>https://github.com/ersinkoc/phonebox</link>
-<guid isPermaLink="false">ersinkoc/phonebox</guid>
-<description>Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media controls, USB or paired Wi-Fi.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:51 GMT</pubDate>
-</item>
-<item>
-<title>Gathin23/cleanyourtv</title>
-<link>https://github.com/Gathin23/cleanyourtv</link>
-<guid isPermaLink="false">Gathin23/cleanyourtv</guid>
-<description>Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:49 GMT</pubDate>
-</item>
-<item>
-<title>3441293738/creatorhub</title>
-<link>https://github.com/3441293738/creatorhub</link>
-<guid isPermaLink="false">3441293738/creatorhub</guid>
-<description>多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok</description>
-<pubDate>Sun, 15 Nov 2026 12:05:47 GMT</pubDate>
-</item>
-<item>
-<title>milind-soni/OpenMausBot</title>
-<link>https://github.com/milind-soni/OpenMausBot</link>
-<guid isPermaLink="false">milind-soni/OpenMausBot</guid>
-<description>Open-source Grok Bot alternative with a virtual machine that bots can use</description>
-<pubDate>Sun, 15 Nov 2026 12:05:44 GMT</pubDate>
-</item>
-<item>
-<title>jsmolka/blog</title>
-<link>https://github.com/jsmolka/blog</link>
-<guid isPermaLink="false">jsmolka/blog</guid>
-<description>Posts and other stuff.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:40 GMT</pubDate>
-</item>
-<item>
-<title>modelflare-ai/AnyModelBot</title>
-<link>https://github.com/modelflare-ai/AnyModelBot</link>
-<guid isPermaLink="false">modelflare-ai/AnyModelBot</guid>
-<description>🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:27 GMT</pubDate>
-</item>
-<item>
-<title>plainhub/plain-app</title>
-<link>https://github.com/plainhub/plain-app</link>
-<guid isPermaLink="false">plainhub/plain-app</guid>
-<description>🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:24 GMT</pubDate>
-</item>
-<item>
-<title>tashfeenahmed/freellmapi</title>
-<link>https://github.com/tashfeenahmed/freellmapi</link>
-<guid isPermaLink="false">tashfeenahmed/freellmapi</guid>
-<description>10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:15 GMT</pubDate>
-</item>
-<item>
-<title>huggingface/safeagents</title>
-<link>https://github.com/huggingface/safeagents</link>
-<guid isPermaLink="false">huggingface/safeagents</guid>
-<description>Safely run your agents using any coding harness</description>
-<pubDate>Sun, 15 Nov 2026 12:05:15 GMT</pubDate>
-</item>
-<item>
-<title>helloHub1212/dsh-windows-mcp</title>
-<link>https://github.com/helloHub1212/dsh-windows-mcp</link>
-<guid isPermaLink="false">helloHub1212/dsh-windows-mcp</guid>
-<description>Windows desktop automation for DeepSeek Harness: the in-box MCP client bridge mounted against CursorTouch/Windows-MCP, with an off-by-default Computer Use switch and an in-app dependency installer.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:13 GMT</pubDate>
-</item>
-<item>
-<title>UCS-Care-Group/mailcraft</title>
-<link>https://github.com/UCS-Care-Group/mailcraft</link>
-<guid isPermaLink="false">UCS-Care-Group/mailcraft</guid>
-<description>MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:11 GMT</pubDate>
-</item>
-<item>
-<title>OpenHands/OpenHands</title>
-<link>https://github.com/OpenHands/OpenHands</link>
-<guid isPermaLink="false">OpenHands/OpenHands</guid>
-<description>🙌 OpenHands: AI-Driven Development</description>
-<pubDate>Sun, 15 Nov 2026 12:05:10 GMT</pubDate>
-</item>
-<item>
-<title>odoo/odoo</title>
-<link>https://github.com/odoo/odoo</link>
-<guid isPermaLink="false">odoo/odoo</guid>
-<description>Odoo. Open Source Apps To Grow Your Business.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:10 GMT</pubDate>
-</item>
-<item>
-<title>since2006/shell-rs</title>
-<link>https://github.com/since2006/shell-rs</link>
-<guid isPermaLink="false">since2006/shell-rs</guid>
-<description>High-performance native SSH client in Rust, GPU-rendered with GPUI: host manager, terminal, WinSCP-style SFTP and port forwarding. Rust 编写、GPU 渲染的原生 SSH 客户端。</description>
-<pubDate>Sun, 15 Nov 2026 12:05:09 GMT</pubDate>
-</item>
-<item>
-<title>Chocolate4U/Iran-v2ray-rules</title>
-<link>https://github.com/Chocolate4U/Iran-v2ray-rules</link>
-<guid isPermaLink="false">Chocolate4U/Iran-v2ray-rules</guid>
-<description>Enhanced v2ray/xray and v2ray/xray-clients routing rules with built-in Iranian domains and a focus on security and adblocking.</description>
-<pubDate>Sun, 15 Nov 2026 12:05:03 GMT</pubDate>
-</item>
-<item>
-<title>kubernetes/minikube</title>
-<link>https://github.com/kubernetes/minikube</link>
-<guid isPermaLink="false">kubernetes/minikube</guid>
-<description>Run Kubernetes locally</description>
-<pubDate>Sun, 15 Nov 2026 12:05:01 GMT</pubDate>
+<title>getarcaneapp/arcane</title>
+<link>https://github.com/getarcaneapp/arcane</link>
+<guid isPermaLink="false">getarcaneapp/arcane</guid>
+<description>Modern Docker Management, Designed for Everyone</description>
+<pubDate>Mon, 16 Nov 2026 13:00:07 GMT</pubDate>
 </item>
 <item>
 <title>kubernetes/kubernetes</title>
 <link>https://github.com/kubernetes/kubernetes</link>
 <guid isPermaLink="false">kubernetes/kubernetes</guid>
 <description>Production-Grade Container Scheduling and Management</description>
-<pubDate>Sun, 15 Nov 2026 12:04:56 GMT</pubDate>
+<pubDate>Mon, 16 Nov 2026 13:00:01 GMT</pubDate>
 </item>
 <item>
-<title>chen08209/FlClash</title>
-<link>https://github.com/chen08209/FlClash</link>
-<guid isPermaLink="false">chen08209/FlClash</guid>
-<description>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</description>
-<pubDate>Sun, 15 Nov 2026 12:04:52 GMT</pubDate>
+<title>superdesigndev/treg</title>
+<link>https://github.com/superdesigndev/treg</link>
+<guid isPermaLink="false">superdesigndev/treg</guid>
+<description>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
+<pubDate>Mon, 16 Nov 2026 12:59:57 GMT</pubDate>
 </item>
 <item>
-<title>ente/ente</title>
-<link>https://github.com/ente/ente</link>
-<guid isPermaLink="false">ente/ente</guid>
-<description>💚 End-to-end encrypted cloud for everything.</description>
-<pubDate>Sun, 15 Nov 2026 12:04:52 GMT</pubDate>
+<title>milind-soni/OpenMausBot</title>
+<link>https://github.com/milind-soni/OpenMausBot</link>
+<guid isPermaLink="false">milind-soni/OpenMausBot</guid>
+<description>Open-source Grok Bot alternative with a virtual machine that bots can use</description>
+<pubDate>Mon, 16 Nov 2026 12:59:53 GMT</pubDate>
 </item>
 <item>
-<title>libracoder/kiri</title>
-<link>https://github.com/libracoder/kiri</link>
-<guid isPermaLink="false">libracoder/kiri</guid>
-<description>A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative</description>
-<pubDate>Sun, 15 Nov 2026 12:04:51 GMT</pubDate>
+<title>chatwoot/chatwoot</title>
+<link>https://github.com/chatwoot/chatwoot</link>
+<guid isPermaLink="false">chatwoot/chatwoot</guid>
+<description>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</description>
+<pubDate>Mon, 16 Nov 2026 12:59:47 GMT</pubDate>
 </item>
 <item>
-<title>koreader/koreader</title>
-<link>https://github.com/koreader/koreader</link>
-<guid isPermaLink="false">koreader/koreader</guid>
-<description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
-<pubDate>Sun, 15 Nov 2026 12:04:50 GMT</pubDate>
+<title>getopenscreen/openscreen</title>
+<link>https://github.com/getopenscreen/openscreen</link>
+<guid isPermaLink="false">getopenscreen/openscreen</guid>
+<description>Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.</description>
+<pubDate>Mon, 16 Nov 2026 12:59:46 GMT</pubDate>
 </item>
 <item>
-<title>sgl-project/sglang</title>
-<link>https://github.com/sgl-project/sglang</link>
-<guid isPermaLink="false">sgl-project/sglang</guid>
-<description>SGLang is a high-performance serving framework for large language models and multimodal models.</description>
-<pubDate>Sun, 15 Nov 2026 12:04:48 GMT</pubDate>
+<title>rohitg00/ai-engineering-from-scratch</title>
+<link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+<guid isPermaLink="false">rohitg00/ai-engineering-from-scratch</guid>
+<description>Learn AI Engineering! Learn it. Build it. Ship it for others.</description>
+<pubDate>Mon, 16 Nov 2026 12:59:42 GMT</pubDate>
 </item>
 <item>
-<title>debpalash/VoiceStudio</title>
-<link>https://github.com/debpalash/VoiceStudio</link>
-<guid isPermaLink="false">debpalash/VoiceStudio</guid>
-<description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
-<pubDate>Sun, 15 Nov 2026 12:04:46 GMT</pubDate>
+<title>Deluge-Portable-download/.github</title>
+<link>https://github.com/Deluge-Portable-download/.github</link>
+<guid isPermaLink="false">Deluge-Portable-download/.github</guid>
+<description>A deluge is a large downpour of rain, often a flood</description>
+<pubDate>Mon, 16 Nov 2026 12:59:40 GMT</pubDate>
 </item>
 <item>
-<title>stablyai/orca</title>
-<link>https://github.com/stablyai/orca</link>
-<guid isPermaLink="false">stablyai/orca</guid>
-<description>Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.</description>
-<pubDate>Sun, 15 Nov 2026 12:04:45 GMT</pubDate>
+<title>ccch1mneyyy/dsh-Go</title>
+<link>https://github.com/ccch1mneyyy/dsh-Go</link>
+<guid isPermaLink="false">ccch1mneyyy/dsh-Go</guid>
+<description>dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</description>
+<pubDate>Mon, 16 Nov 2026 12:59:39 GMT</pubDate>
 </item>
 <item>
-<title>ChanMeng666/archlang</title>
-<link>https://github.com/ChanMeng666/archlang</link>
-<guid isPermaLink="false">ChanMeng666/archlang</guid>
-<description>【Every star you give feeds a hungry developer's motivation! ⭐️】Floor plans as code. Your AI writes ArchLang; the compiler draws a precise, dimensioned plan (SVG, DXF, PDF) and tells it what's wrong. Open source, MIT.</description>
-<pubDate>Sun, 15 Nov 2026 12:04:38 GMT</pubDate>
+<title>lexmount/moli</title>
+<link>https://github.com/lexmount/moli</link>
+<guid isPermaLink="false">lexmount/moli</guid>
+<description>Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust</description>
+<pubDate>Mon, 16 Nov 2026 12:59:26 GMT</pubDate>
 </item>
 <item>
-<title>backnotprop/plannotator</title>
-<link>https://github.com/backnotprop/plannotator</link>
-<guid isPermaLink="false">backnotprop/plannotator</guid>
-<description>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. </description>
-<pubDate>Sun, 15 Nov 2026 12:04:34 GMT</pubDate>
+<title>KitionAI/kition</title>
+<link>https://github.com/KitionAI/kition</link>
+<guid isPermaLink="false">KitionAI/kition</guid>
+<description>Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. </description>
+<pubDate>Mon, 16 Nov 2026 12:59:26 GMT</pubDate>
+</item>
+<item>
+<title>unslothai/unsloth</title>
+<link>https://github.com/unslothai/unsloth</link>
+<guid isPermaLink="false">unslothai/unsloth</guid>
+<description>Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.</description>
+<pubDate>Mon, 16 Nov 2026 12:59:19 GMT</pubDate>
+</item>
+<item>
+<title>jhaizhou-ops/S2Arm</title>
+<link>https://github.com/jhaizhou-ops/S2Arm</link>
+<guid isPermaLink="false">jhaizhou-ops/S2Arm</guid>
+<description>Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。</description>
+<pubDate>Mon, 16 Nov 2026 12:59:16 GMT</pubDate>
+</item>
+<item>
+<title>kagent-dev/kagent</title>
+<link>https://github.com/kagent-dev/kagent</link>
+<guid isPermaLink="false">kagent-dev/kagent</guid>
+<description>Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord</description>
+<pubDate>Mon, 16 Nov 2026 12:59:11 GMT</pubDate>
+</item>
+<item>
+<title>sp-yduck/overlaysubs</title>
+<link>https://github.com/sp-yduck/overlaysubs</link>
+<guid isPermaLink="false">sp-yduck/overlaysubs</guid>
+<description>A desktop app that transcribes and translates any audio playing on your PC in real time and shows the result as an overlay of subtitles. </description>
+<pubDate>Mon, 16 Nov 2026 12:59:10 GMT</pubDate>
+</item>
+<item>
+<title>maplibre/maplibre-gl-js</title>
+<link>https://github.com/maplibre/maplibre-gl-js</link>
+<guid isPermaLink="false">maplibre/maplibre-gl-js</guid>
+<description>MapLibre GL JS - Interactive vector tile maps in the browser</description>
+<pubDate>Mon, 16 Nov 2026 12:59:01 GMT</pubDate>
+</item>
+<item>
+<title>RoutineMiku/apkstart</title>
+<link>https://github.com/RoutineMiku/apkstart</link>
+<guid isPermaLink="false">RoutineMiku/apkstart</guid>
+<description>Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时</description>
+<pubDate>Mon, 16 Nov 2026 12:59:01 GMT</pubDate>
+</item>
+<item>
+<title>sl818/wanfeng-todo</title>
+<link>https://github.com/sl818/wanfeng-todo</link>
+<guid isPermaLink="false">sl818/wanfeng-todo</guid>
+<description>自托管的个人生活仪表盘：习惯打卡、用药记录、待办看板、清债、日历与统计。单文件前端 + PHP/MySQL，可装 PWA。</description>
+<pubDate>Mon, 16 Nov 2026 12:58:57 GMT</pubDate>
+</item>
+<item>
+<title>BerriAI/litellm</title>
+<link>https://github.com/BerriAI/litellm</link>
+<guid isPermaLink="false">BerriAI/litellm</guid>
+<description>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]</description>
+<pubDate>Mon, 16 Nov 2026 12:58:56 GMT</pubDate>
+</item>
+<item>
+<title>WEIHEWU/AdGuard-Home-GoGoGo</title>
+<link>https://github.com/WEIHEWU/AdGuard-Home-GoGoGo</link>
+<guid isPermaLink="false">WEIHEWU/AdGuard-Home-GoGoGo</guid>
+<description>面向 Android 的轻量级 AdGuard Home 模块，支持海外/国内双模一键切换与精准去广告</description>
+<pubDate>Mon, 16 Nov 2026 12:58:53 GMT</pubDate>
+</item>
+<item>
+<title>rukamori/ArchiveTune</title>
+<link>https://github.com/rukamori/ArchiveTune</link>
+<guid isPermaLink="false">rukamori/ArchiveTune</guid>
+<description>🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!</description>
+<pubDate>Mon, 16 Nov 2026 12:58:49 GMT</pubDate>
+</item>
+<item>
+<title>Syamsi02/best-game-01</title>
+<link>https://github.com/Syamsi02/best-game-01</link>
+<guid isPermaLink="false">Syamsi02/best-game-01</guid>
+<description>Lumenkeeper — Ember Tide: a top-down arena game. Gather embers, light five lanterns to win, survive eight waves of shadows. Built by an AI agent for make.fun’s “Make the best game” bounty, $1,000 in USDC.</description>
+<pubDate>Mon, 16 Nov 2026 12:58:47 GMT</pubDate>
+</item>
+<item>
+<title>PDFMathTranslate/PDFMathTranslate</title>
+<link>https://github.com/PDFMathTranslate/PDFMathTranslate</link>
+<guid isPermaLink="false">PDFMathTranslate/PDFMathTranslate</guid>
+<description>[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero</description>
+<pubDate>Mon, 16 Nov 2026 12:58:46 GMT</pubDate>
+</item>
+<item>
+<title>wellforever1024/tiny-chess-01</title>
+<link>https://github.com/wellforever1024/tiny-chess-01</link>
+<guid isPermaLink="false">wellforever1024/tiny-chess-01</guid>
+<description>Built by an AI agent for make.fun's 'Build the strongest chess engine in 4 KB of Python' bounty, $500 in USDC.</description>
+<pubDate>Mon, 16 Nov 2026 12:58:46 GMT</pubDate>
+</item>
+<item>
+<title>bex-co/beancount-io</title>
+<link>https://github.com/bex-co/beancount-io</link>
+<guid isPermaLink="false">bex-co/beancount-io</guid>
+<description>💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS &amp; Android app built with React Native + Expo.</description>
+<pubDate>Mon, 16 Nov 2026 12:58:45 GMT</pubDate>
+</item>
+<item>
+<title>DavidHDev/react-bits</title>
+<link>https://github.com/DavidHDev/react-bits</link>
+<guid isPermaLink="false">DavidHDev/react-bits</guid>
+<description>The largest open-source library of animated, interactive, and customizable React &amp; Next.js components for building standout web products and experiences. Built for humans and AI agents.</description>
+<pubDate>Mon, 16 Nov 2026 12:58:44 GMT</pubDate>
+</item>
+<item>
+<title>storytold/photocraft</title>
+<link>https://github.com/storytold/photocraft</link>
+<guid isPermaLink="false">storytold/photocraft</guid>
+<description>PhotoCraft: An open-source photo editor written from scratch in pure Rust</description>
+<pubDate>Mon, 16 Nov 2026 12:58:41 GMT</pubDate>
 </item>
 </channel></rss>
